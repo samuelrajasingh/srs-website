@@ -337,16 +337,16 @@ footer #social-media-footer ul li {
   transition: 0.4s;
 }
 
-footer #social-media-footer ul li:hover a .fa-youtube {
-  color: red;
+footer #social-media-footer ul li:hover a .fa-whatsapp {
+  color: green;
 }
 
 footer #social-media-footer ul li:hover a .fa-facebook {
-  color: #3b5998;
+  color: blue;
 }
 
 footer #social-media-footer ul li:hover a .fa-github {
-  color: #bbb;
+  color: rgb(109, 109, 109);
 }
 
 /* Blog List page */
