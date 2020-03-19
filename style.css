@@ -342,7 +342,7 @@ footer #social-media-footer ul li:hover a .fa-whatsapp {
 }
 
 footer #social-media-footer ul li:hover a .fa-facebook {
-  color: blue;
+  color: rgb(66, 66, 255);
 }
 
 footer #social-media-footer ul li:hover a .fa-github {
